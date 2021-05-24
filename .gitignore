@@ -1,0 +1,33 @@
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   financial_tweets/tweets.csv
+	new file:   lab6.py
+	new file:   tweet_file_server.py
+	new file:   tweet_tcp_server.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	EjemplosSpark01/
+	EjemplosSpark03/
+	checkpoint_S&PCorrelation/
+	default_client.py
+	default_server.py
+	dummy_tcp_server.py
+	fix_file.py
+	producer.py
+	server.py
+	server2.py
+	server3.py
+	small_producer.py
+	test.py
+	test_spark.py
+	text_files/
+	tweets.csv
+	tweets.txt
+	tweets/
+
