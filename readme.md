@@ -1,2 +1,2 @@
-### Setup
-download the
+### Setup and Run
+Download the dataset from <a href=https://www.kaggle.com/dominikgulacsy/twitter-investor-sentiment-analysis-dataset>here</a> and put the csv in the folder [financial_tweets](financial_tweets/). Then run [tweet_file_server.py](tweet_file_server.py) or [tweet_tcp_server.py](tweet_tcp_server.py) depending on the type of Spark stream that is desired. Finally edit STREAM_TYPE in [lab6.py](lab6.py) to either "socket" or something else. If the value is not "socket" it will create a textFileStream. 
